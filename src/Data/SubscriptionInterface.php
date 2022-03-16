@@ -12,7 +12,9 @@ interface SubscriptionInterface
 
     public function getCondition(): ?string;
 
-    public function getDocumentId(): string;
+    public function getDocumentId(): ?string;
 
     public function getDimensions(): ?string;
+
+    public function getRows(): ?string;
 }
