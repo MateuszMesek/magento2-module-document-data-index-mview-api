@@ -4,7 +4,7 @@ namespace MateuszMesek\DocumentDataIndexMviewApi;
 
 use Traversable;
 
-interface NodeSubscriptionsResolverInterface
+interface TriggerProviderInterface
 {
-    public function resolve(): Traversable;
+    public function get(array $context): Traversable;
 }
