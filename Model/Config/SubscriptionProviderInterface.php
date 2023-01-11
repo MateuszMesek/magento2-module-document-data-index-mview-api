@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace MateuszMesek\DocumentDataIndexMviewApi\Config;
+namespace MateuszMesek\DocumentDataIndexMviewApi\Model\Config;
 
 interface SubscriptionProviderInterface
 {

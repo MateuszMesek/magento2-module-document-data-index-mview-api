@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace MateuszMesek\DocumentDataIndexMviewApi\Data;
+namespace MateuszMesek\DocumentDataIndexMviewApi\Model\Data;
 
 use Traversable;
 

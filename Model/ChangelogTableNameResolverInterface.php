@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace MateuszMesek\DocumentDataIndexMviewApi;
+namespace MateuszMesek\DocumentDataIndexMviewApi\Model;
 
 interface ChangelogTableNameResolverInterface
 {

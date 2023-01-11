@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace MateuszMesek\DocumentDataIndexMviewApi;
+namespace MateuszMesek\DocumentDataIndexMviewApi\Model;
 
-use MateuszMesek\DocumentDataIndexMviewApi\Data\SubscriptionInterface;
+use MateuszMesek\DocumentDataIndexMviewApi\Model\Data\SubscriptionInterface;
 
 interface TriggerNameResolverInterface
 {
